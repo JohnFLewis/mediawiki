@@ -443,3 +443,7 @@
 	path = extensions/AuthorProtect
 	url = https://github.com/wikimedia/mediawiki-extensions-AuthorProtect.git
 	branch = REL1_26
+[submodule "extensions/LinkSuggest"]
+	path = extensions/LinkSuggest
+	url = https://github.com/wikimedia/mediawiki-extensions-LinkSuggest
+	branch = REL1_26
