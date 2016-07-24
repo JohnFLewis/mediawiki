@@ -447,3 +447,7 @@
 	path = extensions/LinkSuggest
 	url = https://github.com/wikimedia/mediawiki-extensions-LinkSuggest
 	branch = REL1_26
+[submodule "skins/DuskToDawn"]
+	path = skins/DuskToDawn
+	url = https://github.com/wikimedia/mediawiki-skins-DuskToDawn.git
+	branch = REL1_26
