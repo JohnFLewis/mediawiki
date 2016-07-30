@@ -451,3 +451,7 @@
 	path = skins/DuskToDawn
 	url = https://github.com/wikimedia/mediawiki-skins-DuskToDawn.git
 	branch = REL1_26
+[submodule "skins/apex"]
+	path = skins/apex
+	url = https://github.com/wikimedia/mediawiki-skins-apex.git
+	branch = REL1_26
