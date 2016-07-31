@@ -459,3 +459,7 @@
 	path = extensions/PDFEmbed
 	url = https://github.com/HydraWiki/PDFEmbed.git
 	branch = master
+[submodule "skins/erudite"]
+	path = skins/erudite
+	url = https://github.com/wikimedia/mediawiki-skins-erudite.git
+	branch = REL1_26
