@@ -435,6 +435,10 @@
 [submodule "extensions/AccessControl"]
 	path = extensions/AccessControl
 	url = https://github.com/wikimedia/mediawiki-extensions-AccessControl.git
+[submodule "extensions/Widgets"]
+	path = extensions/Widgets
+	url = https://github.com/wikimedia/mediawiki-extensions-Widgets.git
+	branch = REL1_26
 [submodule "extensions/AuthorProtect"]
 	path = extensions/AuthorProtect
 	url = https://github.com/wikimedia/mediawiki-extensions-AuthorProtect.git
@@ -459,6 +463,3 @@
 	path = skins/erudite
 	url = https://github.com/wikimedia/mediawiki-skins-erudite.git
 	branch = REL1_26
-[submodule "extensions/Widgets"]
-	path = extensions/Widgets
-	url = https://github.com/miraheze/mediawiki-extensions-Widgets.git
